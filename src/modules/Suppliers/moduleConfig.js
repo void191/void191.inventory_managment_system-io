@@ -1,11 +1,8 @@
-import { Handshake } from 'lucide-react';
-import { suppliers } from './data';
+import { BriefcaseBusiness } from 'lucide-react';
 
 export const moduleConfig = {
   name: 'Suppliers',
   route: '/suppliers',
-  icon: Handshake,
-  mockData: {
-    suppliers,
-  },
+  icon: BriefcaseBusiness,
+  mockData: {},
 };

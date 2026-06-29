@@ -3,19 +3,38 @@
 > vite --host 127.0.0.1 --port 4173
 
 
-  [32m[1mVITE[22m v7.3.3[39m  [2mready in [0m[1m518[22m[2m[0m ms[22m
+  [32m[1mVITE[22m v7.3.3[39m  [2mready in [0m[1m3550[22m[2m[0m ms[22m
 
   [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m4173[22m/[39m
 [2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
-[2m6:12:32 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx[22m
-[2m6:12:32 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/Products/index.jsx[22m
-[2m6:12:33 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/SalesOrders/index.jsx[22m
-[2m6:12:33 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/StockMovements/index.jsx[22m
-[2m6:12:33 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/Suppliers/index.jsx[22m
-[2m6:12:33 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.css[22m
-[2m6:13:27 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/components/Dropdown.jsx[22m
-[2m6:13:27 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/Products/index.jsx[22m
-[2m6:13:27 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/SalesOrders/index.jsx[22m
-[2m6:13:27 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/StockMovements/index.jsx[22m
-[2m6:13:28 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/Suppliers/index.jsx[22m
-[2m6:13:28 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.css[22m
+[2m11:51:35 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m11:51:50 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx[22m
+[2m11:51:56 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx[22m
+[2m11:52:10 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.css[22m
+[2m11:52:16 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.css[22m
+[2m11:52:32 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/modules/StockMovements/index.jsx[22m
+[2m11:52:36 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/modules/Dashboard/index.jsx[22m
+[2m11:52:46 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/Dashboard/index.jsx[22m
+[2m11:53:01 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.css[22m
+[2m11:53:11 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/Products/index.jsx[22m
+[2m11:53:15 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/modules/PurchaseOrders/index.jsx, /src/modules/Dashboard/index.jsx, /src/modules/Products/index.jsx[22m
+[2m11:53:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/PurchaseOrders/index.jsx[22m
+[2m11:53:31 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/modules/SalesOrders/index.jsx, /src/modules/Dashboard/index.jsx, /src/modules/Products/index.jsx, /src/modules/PurchaseOrders/index.jsx[22m
+[2m11:53:37 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/SalesOrders/index.jsx[22m
+[2m11:53:37 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/SalesOrders/index.jsx[22m
+[2m11:53:44 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/Warehouses/index.jsx[22m
+[2m11:53:51 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/StockLevels/index.jsx[22m
+[2m11:53:58 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/modules/Suppliers/index.jsx, /src/modules/Dashboard/index.jsx, /src/modules/Products/index.jsx, /src/modules/PurchaseOrders/index.jsx, /src/modules/Warehouses/index.jsx, /src/modules/StockLevels/index.jsx[22m
+[2m11:54:09 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/Suppliers/index.jsx[22m
+[2m11:54:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/StockMovements/index.jsx[22m
+[2m11:54:30 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/Reports/index.jsx[22m
+[2m11:55:13 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/SalesOrders/index.jsx[22m
+[2m12:00:45 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/modules/StockMovements/index.jsx[22m
+[2m12:00:50 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/components/ModuleIcon.jsx[22m
+[2m12:00:57 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.css[22m
+[2m12:10:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m12:10:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx[22m
+[2m12:31:10 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx[22m
+[2m12:31:16 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx[22m
+[2m12:31:20 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.css[22m
+[2m12:31:27 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.css[22m
