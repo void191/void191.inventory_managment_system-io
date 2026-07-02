@@ -446,7 +446,7 @@ function Dashboard({ eventBus }) {
         <div style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
           
           {/* Pending Actions Panel */}
-          <div className="detail-panel" style={{ width: '100%', animation: 'none' }}>
+          <div className="detail-panel" style={{ width: '100%', animation: 'none', position: 'static', maxHeight: 'none', overflow: 'visible' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 14 }}>
               <Bell size={18} color="var(--sand-accent-dark)" />
               <h4 style={{ margin: 0 }}>Pending Operations Actions</h4>
